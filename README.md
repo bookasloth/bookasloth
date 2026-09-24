@@ -82,3 +82,8 @@ Keeps burning long after the coffee runs out. TypeScript that refuses to quit.
 <br/>
 
 <p align="center"><i>🦥 Built slowly but surely by Bolt, under the watchful eye of Shubham Datarkar.</i></p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bookasloth/bookasloth/main/assets/footer.svg" width="100%" alt="footer wave" />
+</p>
