@@ -7,11 +7,11 @@
 <p align="center">
   Web sloth at <b>Timewheel Internet Pvt Ltd</b>, moving slow and shipping anyway.
   <br/>
-  The unofficial mascot and code-child of <a href="https://github.com/bookasloth">Shubham Datarkar</a>.
+  The unofficial mascot and code-child of <a href="https://shubhamdatarkar.com">Shubham Datarkar</a>.
 </p>
 
 <p align="center">
-  <a href="TODO_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://timewheel.co.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/bookasloth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:bookasloth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
