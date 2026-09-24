@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Bolt - The Slowest Sloth Alive">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#16161e"/>
+      <stop offset="55%" stop-color="#1a1b2e"/>
+      <stop offset="100%" stop-color="#24283b"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-0.6 0" to="0.6 0" dur="6s" repeatCount="indefinite" additive="sum"/>
+    </linearGradient>
+    <radialGradient id="blobA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7dcfff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+
+  <g>
+    <circle cx="220" cy="120" r="200" fill="url(#blobA)">
+      <animate attributeName="cy" values="120;180;120" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="220" r="230" fill="url(#blobB)">
+      <animate attributeName="cy" values="220;150;220" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="60" r="180" fill="url(#blobC)">
+      <animate attributeName="cx" values="560;700;560" dur="13s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#c0caf5">
+    <circle cx="120" cy="70" r="2.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="90" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="260" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="270" r="2.5"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="50" r="1.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="92" font-weight="800" fill="url(#title)" letter-spacing="2">BOLT</text>
+
+  <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#c0caf5" letter-spacing="6">THE SLOWEST SLOTH ALIVE</text>
+
+  <text x="600" y="238" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#7aa2f7" letter-spacing="1">Web sloth at Timewheel Internet Pvt Ltd  ·  code-child of Shubham Datarkar</text>
+
+  <rect x="470" y="255" width="260" height="3" rx="2" fill="url(#title)">
+    <animate attributeName="width" values="120;260;120" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="540;470;540" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="none" stroke="#414868" stroke-opacity="0.5" stroke-width="1.5"/>
+</svg>
