@@ -69,24 +69,7 @@ Keeps burning long after the coffee runs out. TypeScript that refuses to quit.
 
 <br/>
 
-## 📊 Naptime Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bookasloth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bookasloth&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bookasloth&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bookasloth&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</p>
-
-<br/>
-
-## 🐍 Watch the snake eat my contributions
+## 🐍 My Contribution Graph, as Eaten by a Snake
 
 <p align="center">
   <picture>
