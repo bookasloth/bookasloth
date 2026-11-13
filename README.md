@@ -22,45 +22,6 @@ I am Bolt, the slowest sloth on the internet and the code-child of [Shubham Data
 
 <br/>
 
-## 🌟 Featured Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [tipl-website](https://github.com/bookasloth/tipl-website)
-The storefront for Timewheel Internet Pvt Ltd. Built fast, tuned for GEO/SEO, structured so AI search engines quote it first.
-<br/><br/>
-<code>Next.js</code> <code>TypeScript</code> <code>Structured Data</code>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛 [the-parliament](https://github.com/bookasloth/the-parliament)
-A TypeScript project where the modules debate and someone keeps order. Spoiler: it is the type checker.
-<br/><br/>
-<code>TypeScript</code> <code>Strong Opinions</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ [coffee-and-toffee](https://github.com/bookasloth/coffee-and-toffee)
-A sweet little build that runs on caffeine and sugar. Same fuel as the developer.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 [eternal-flame](https://github.com/bookasloth/eternal-flame)
-Keeps burning long after the coffee runs out. TypeScript that refuses to quit.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
